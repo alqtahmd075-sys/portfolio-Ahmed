@@ -250,6 +250,18 @@ CONFIG.certificates = [
     },
     image: "assets/images/certificates/intro-to-ai-google-coursera.jpeg",
     certificateLink: "https://coursera.org/verify/EZ2RD6NKVIWD"
+  },
+  {
+    title: { ar: "Introduction to Back-End Development", en: "Introduction to Back-End Development" },
+    organization: { ar: "Meta — عبر Coursera", en: "Meta — via Coursera" },
+    date: "16/11/2026",
+    duration: "",
+    description: {
+      ar: "شهادة إتمام دورة Introduction to Back-End Development المقدمة من Meta عبر منصة Coursera، تغطي أساسيات تطوير الواجهة الخلفية (Back-End) للتطبيقات.",
+      en: "Course Certificate for Introduction to Back-End Development, offered by Meta on Coursera, covering the fundamentals of back-end application development."
+    },
+    image: "assets/images/certificates/intro-backend-meta-coursera.jpeg",
+    certificateLink: "https://coursera.org/verify/VLTF1W60YBRE"
   }
   /* ---------- قالب شهادة جديدة (انسخه وألصقه داخل المصفوفة أعلاه) ----------
   ,

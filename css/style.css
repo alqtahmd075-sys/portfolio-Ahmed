@@ -68,7 +68,7 @@ html.theme-transition *::after{
 *{margin:0;padding:0;box-sizing:border-box}
 html{font-size:106.25%;scroll-behavior:smooth;scroll-padding-top:92px}
 body{
-  font-family:'Cairo','Inter',sans-serif;font-weight:500;
+  font-family:'Cairo','Inter',sans-serif;font-weight:550;
   background:var(--bg-color);
   color:var(--text-color);
   overflow-x:hidden;
