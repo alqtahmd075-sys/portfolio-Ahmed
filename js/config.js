@@ -262,6 +262,18 @@ CONFIG.certificates = [
     },
     image: "assets/images/certificates/intro-backend-meta-coursera.jpeg",
     certificateLink: "https://coursera.org/verify/VLTF1W60YBRE"
+  },
+  {
+    title: { ar: "Preparing Data for Analysis with Microsoft Excel", en: "Preparing Data for Analysis with Microsoft Excel" },
+    organization: { ar: "Microsoft — عبر Coursera", en: "Microsoft — via Coursera" },
+    date: "18/11/2026",
+    duration: "",
+    description: {
+      ar: "شهادة إتمام دورة Preparing Data for Analysis with Microsoft Excel المقدمة من Microsoft عبر منصة Coursera، تغطي تجهيز البيانات وتنظيفها للتحليل باستخدام Microsoft Excel.",
+      en: "Course Certificate for Preparing Data for Analysis with Microsoft Excel, offered by Microsoft on Coursera, covering how to prepare and clean data for analysis using Microsoft Excel."
+    },
+    image: "assets/images/certificates/preparing-data-excel-microsoft-coursera.jpeg",
+    certificateLink: "https://coursera.org/verify/8QQI24XZ95I3"
   }
   /* ---------- قالب شهادة جديدة (انسخه وألصقه داخل المصفوفة أعلاه) ----------
   ,
