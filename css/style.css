@@ -68,7 +68,8 @@ html.theme-transition *::after{
 *{margin:0;padding:0;box-sizing:border-box}
 html{font-size:106.25%;scroll-behavior:smooth;scroll-padding-top:92px}
 body{
-  font-family:'Cairo','Inter',sans-serif;font-weight:550;
+  font-family:'Cairo','Inter',sans-serif;
+font-weight:550;
   background:var(--bg-color);
   color:var(--text-color);
   overflow-x:hidden;
@@ -176,10 +177,11 @@ nav{
 .social-icons a{width:48px;height:48px;border-radius:50%;background:var(--surface-color);border:1px solid var(--border-color);display:flex;align-items:center;justify-content:center;color:var(--text-color);text-decoration:none;font-size:1.2rem;transition:transform .3s ease,box-shadow .3s ease,background .3s ease,border-color .3s ease,color .3s ease}
 .social-icons a:hover{transform:translateY(-3px) scale(1.05);color:#fff;border-color:transparent}
 .social-icons a.linkedin:hover{background:#0a66c2;box-shadow:0 8px 22px rgba(10,102,194,.5)}
-.social-icons a.tiktok:hover{background:#010101;border-color:#3b82f6;box-shadow:0 0 0 2px rgba(59,130,246,.5),0 8px 22px rgba(59,130,246,.35)}
+.social-icons a.tiktok:hover{background:#010101;color:#fff;box-shadow:0 8px 22px rgba(254,44,85,.45)}
+.social-icons a.tiktok:hover i{text-shadow:-1.5px -1.5px 0 #25f4ee,1.5px 1.5px 0 #fe2c55}
 .social-icons a.youtube:hover{background:#ff0000;box-shadow:0 8px 22px rgba(255,0,0,.5)}
 .social-icons a.facebook:hover{background:#1877f2;box-shadow:0 8px 22px rgba(24,119,242,.5)}
-.social-icons a.github:hover{background:#24292e;border-color:#3b82f6;box-shadow:0 0 0 2px rgba(59,130,246,.5),0 8px 22px rgba(59,130,246,.35)}
+.social-icons a.github:hover{background:#181717;color:#fff;box-shadow:0 8px 22px rgba(24,23,23,.55)}
 .social-icons a.figma:hover{background:linear-gradient(135deg,#f24e1e,#a259ff);box-shadow:0 8px 22px rgba(162,89,255,.5)}
 .social-icons a.telegram:hover{background:#229ed9;box-shadow:0 8px 22px rgba(34,158,217,.5)}
 .social-icons a.instagram:hover{background:linear-gradient(45deg,#f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);box-shadow:0 8px 22px rgba(220,39,67,.5)}
