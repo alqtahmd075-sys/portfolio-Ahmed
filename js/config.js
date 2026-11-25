@@ -24,8 +24,8 @@ const CONFIG = {
 
   /* ---------- كلمات Typewriter ---------- */
   typewriter: {
-    ar: ["طالب MIS", "UI/UX Designer", "Data Analyst", "Web Developer"],
-    en: ["MIS Student", "UI/UX Designer", "Data Analyst", "Web Developer"]
+    ar: ["طالب BIS", "UI/UX Designer", "Data Analyst", "Web Developer"],
+    en: ["BIS Student", "UI/UX Designer", "Data Analyst", "Web Developer"]
   },
 
   /* ---------- المشاريع ---------- */
