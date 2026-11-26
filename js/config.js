@@ -274,6 +274,18 @@ CONFIG.certificates = [
     },
     image: "assets/images/certificates/preparing-data-excel-microsoft-coursera.jpeg",
     certificateLink: "https://coursera.org/verify/8QQI24XZ95I3"
+  },
+  {
+    title: { ar: "شهادة مشاركة — 7D Summit 2026", en: "7D Summit 2026 — Certificate of Participation" },
+    organization: { ar: "7D Summit / ZaWolf", en: "7D Summit / ZaWolf" },
+    date: "24/11/2026",
+    duration: "",
+    description: {
+      ar: "شهادة مشاركة في فعالية 7D Summit 2026 بشراكة رئيسية مع ZaWolf، وهي تجمع يضم خبراء الصناعة والتكنولوجيا والمبتكرين ورواد الأعمال لمناقشة تطورات الذكاء الاصطناعي وفرص التقنية وريادة الأعمال، وأُقيمت بتاريخ 24 نوفمبر 2026.",
+      en: "Certificate of Participation in 7D Summit 2026, with ZaWolf as its Main Partner, a gathering of industry leaders, technology experts, innovators, and entrepreneurs dedicated to advancing Artificial Intelligence, held on 24 November 2026."
+    },
+    image: "assets/images/certificates/7d-summit-zawolf.jpeg",
+    certificateLink: ""
   }
   /* ---------- قالب شهادة جديدة (انسخه وألصقه داخل المصفوفة أعلاه) ----------
   ,
